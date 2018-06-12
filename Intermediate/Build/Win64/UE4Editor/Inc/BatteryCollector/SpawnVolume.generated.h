@@ -16,6 +16,15 @@ struct FVector;
 
 #define BatteryCollector_Source_BatteryCollector_SpawnVolume_h_12_RPC_WRAPPERS \
  \
+	DECLARE_FUNCTION(execSetSpawningActive) \
+	{ \
+		P_GET_UBOOL(Z_Param_bShouldSpawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->SetSpawningActive(Z_Param_bShouldSpawn); \
+		P_NATIVE_END; \
+	} \
+ \
 	DECLARE_FUNCTION(execGetRandomPointInVolume) \
 	{ \
 		P_FINISH; \
@@ -26,6 +35,15 @@ struct FVector;
 
 
 #define BatteryCollector_Source_BatteryCollector_SpawnVolume_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execSetSpawningActive) \
+	{ \
+		P_GET_UBOOL(Z_Param_bShouldSpawn); \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->SetSpawningActive(Z_Param_bShouldSpawn); \
+		P_NATIVE_END; \
+	} \
  \
 	DECLARE_FUNCTION(execGetRandomPointInVolume) \
 	{ \

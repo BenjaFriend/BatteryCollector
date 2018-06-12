@@ -19,6 +19,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 	UPackage* Z_Construct_UPackage__Script_BatteryCollector();
 	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ASpawnVolume_GetRandomPointInVolume();
 	COREUOBJECT_API UScriptStruct* Z_Construct_UScriptStruct_FVector();
+	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ASpawnVolume_SetSpawningActive();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
 	BATTERYCOLLECTOR_API UClass* Z_Construct_UClass_APickup_NoRegister();
@@ -28,6 +29,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 		UClass* Class = ASpawnVolume::StaticClass();
 		static const FNameNativePtrPair Funcs[] = {
 			{ "GetRandomPointInVolume", (Native)&ASpawnVolume::execGetRandomPointInVolume },
+			{ "SetSpawningActive", (Native)&ASpawnVolume::execSetSpawningActive },
 		};
 		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
 	}
@@ -56,6 +58,32 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 		}
 		return ReturnFunction;
 	}
+	UFunction* Z_Construct_UFunction_ASpawnVolume_SetSpawningActive()
+	{
+		struct SpawnVolume_eventSetSpawningActive_Parms
+		{
+			bool bShouldSpawn;
+		};
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+			auto NewProp_bShouldSpawn_SetBit = [](void* Obj){ ((SpawnVolume_eventSetSpawningActive_Parms*)Obj)->bShouldSpawn = 1; };
+			static const UE4CodeGen_Private::FBoolPropertyParams NewProp_bShouldSpawn = { UE4CodeGen_Private::EPropertyClass::Bool, "bShouldSpawn", RF_Public|RF_Transient|RF_MarkAsNative, 0x0010000000000080, 1, nullptr, sizeof(bool), UE4CodeGen_Private::ENativeBool::Native, sizeof(SpawnVolume_eventSetSpawningActive_Parms), &UE4CodeGen_Private::TBoolSetBitWrapper<decltype(NewProp_bShouldSpawn_SetBit)>::SetBit, METADATA_PARAMS(nullptr, 0) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_bShouldSpawn,
+			};
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "Category", "Spawning" },
+				{ "ModuleRelativePath", "SpawnVolume.h" },
+				{ "ToolTip", "This function toggles whether or not the spawn volume spawns pickups" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_ASpawnVolume, "SetSpawningActive", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04020401, sizeof(SpawnVolume_eventSetSpawningActive_Parms), PropPointers, ARRAY_COUNT(PropPointers), 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_ASpawnVolume_NoRegister()
 	{
 		return ASpawnVolume::StaticClass();
@@ -71,6 +99,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 			};
 			static const FClassFunctionLinkInfo FuncInfo[] = {
 				{ &Z_Construct_UFunction_ASpawnVolume_GetRandomPointInVolume, "GetRandomPointInVolume" }, // 1301112314
+				{ &Z_Construct_UFunction_ASpawnVolume_SetSpawningActive, "SetSpawningActive" }, // 1835489079
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -136,7 +165,7 @@ void EmptyLinkFunctionForGeneratedCodeSpawnVolume() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASpawnVolume, 2043052666);
+	IMPLEMENT_CLASS(ASpawnVolume, 3075095707);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ASpawnVolume(Z_Construct_UClass_ASpawnVolume, &ASpawnVolume::StaticClass, TEXT("/Script/BatteryCollector"), TEXT("ASpawnVolume"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ASpawnVolume);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

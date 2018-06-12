@@ -60,6 +60,11 @@ protected:
 private:
 	/** Keep's track of the current playing state */
 	EBatteryPlayState CurrentState;
+
+	/** Array of all spawn volumes in the level */
+	TArray<class ASpawnVolume*> SpawnVolumeActors;
+
+
 };
 
 

@@ -5,6 +5,8 @@
 #include "UObject/ConstructorHelpers.h"
 #include "Kismet/GameplayStatics.h"
 #include "Blueprint/UserWidget.h"
+#include "SpawnVolume.h"
+#include "EngineUtils.h"
 
 ABatteryCollectorGameMode::ABatteryCollectorGameMode()
 {
@@ -34,6 +36,7 @@ void ABatteryCollectorGameMode::BeginPlay()
 		PowerToWin = (MyCharacter->GetInitialPower()) * 1.25f;
 	}
 
+	// Setup the hud widget
 	if (HUDWidgetClass != nullptr)
 	{
 		CurrentWidget = CreateWidget<UUserWidget>(GetWorld(), HUDWidgetClass);
@@ -41,6 +44,25 @@ void ABatteryCollectorGameMode::BeginPlay()
 		{
 			CurrentWidget->AddToViewport();
 		}
+	}
+
+	//Find all spawn volume actors
+	/* The two bits of code below do the same thing, but the iterator version is better
+	TArray<AActors*> FoundActors;
+	UGameplayStatics::GetAllActorsOfClass(GetWorld(), ASpawnVolume::StaticClass(), FoundActors);
+	for (auto Actor : FoundActors)
+	{
+		ASpawnVolume* SpawnVolumeActor = Cast<ASpawnVolume>(Actor);
+		if (SpawnVolumeActor)
+		{
+			SpawnVolumeActors.AddUnique(SpawnVolumeActor);
+
+		}
+	}*/
+
+	for (TActorIterator<ASpawnVolume> It(GetWorld()); It; ++It) 
+	{
+		SpawnVolumeActors.AddUnique(*It);
 	}
 }
 
