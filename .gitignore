@@ -71,6 +71,8 @@ Build/*/**
 
 # Compiled source files for the engine to use
 */Intermediate/*
+[Ii]ntermediate/
+[Ss]aved
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
