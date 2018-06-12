@@ -1904,3 +1904,428 @@ LogInit: Object subsystem initialized
 [2018.06.12-18.25.38:841][482]LogSavePackage: Save=247.39ms
 [2018.06.12-18.25.38:841][482]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltDataC66459DD40347EA850141484480A8F32.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
 [2018.06.12-18.25.38:843][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-18.29.22:521][638]LogWindows: LaunchFileInExternalEditor C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.h 
+[2018.06.12-18.29.22:623][638]LogWindows: Launch application code for C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryCollectorGameMode.h : 42
+[2018.06.12-18.29.22:623][638]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.29.22:629][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:629][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:629][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:629][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:629][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:630][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:630][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:630][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:630][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:630][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:631][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:632][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:633][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:634][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:635][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:636][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:636][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:636][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:636][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:637][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:638][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:638][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:641][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:641][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:641][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:642][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:642][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:642][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:642][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:642][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:643][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:644][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:644][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:644][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:644][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:645][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:645][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:645][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:645][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:646][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:646][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:646][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:646][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:647][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:647][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:647][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:648][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:648][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:648][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:648][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:649][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:649][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:649][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:649][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:649][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:653][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:653][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:653][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:653][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:654][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:654][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:655][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:655][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:678][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:688][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:688][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:691][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:697][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:714][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:715][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:715][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:731][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:735][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:735][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:737][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:737][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:740][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:741][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.29.22:751][638]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.33.44:315][541]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.33.44:323][541]Candidate modules for hot reload:
+[2018.06.12-18.33.44:324][541]  BatteryCollector
+[2018.06.12-18.33.44:324][541]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 1942 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-18.33.44:327][541]Warning: Starting HotReload took  0.0s.
+[2018.06.12-18.33.56:607][270]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 10:33:56 AM
+[2018.06.12-18.33.56:607][270]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-18.33.56:608][270]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-18.33.56:608][270]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-18.33.56:608][270]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-18.33.56:608][270]CompilerResultsLog: Error: C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryCollectorCharacter.h(98)  : Error: Unknown function specifier 'BlueprintImplementable'
+[2018.06.12-18.33.56:608][270]CompilerResultsLog: UnrealHeaderTool failed for target 'BatteryCollectorEditor' (platform: Win64, module info: C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest).
+[2018.06.12-18.33.56:608][270]LogMainFrame: MainFrame: Module compiling took 12.293 seconds
+[2018.06.12-18.33.56:608][270]Warning: HotReload failed, recompile failed
+[2018.06.12-18.35.29:418][604]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.35.29:427][604]Candidate modules for hot reload:
+[2018.06.12-18.35.29:427][604]  BatteryCollector
+[2018.06.12-18.35.29:427][604]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 1662 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-18.35.29:430][604]Warning: Starting HotReload took  0.1s.
+[2018.06.12-18.35.42:011][620]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 10:35:42 AM
+[2018.06.12-18.35.42:011][620]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-18.35.42:011][620]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-18.35.42:011][620]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-18.35.42:012][620]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-18.35.42:012][620]CompilerResultsLog: Error: C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryCollectorCharacter.h(98)  : Error: Function return type: Missing variable type
+[2018.06.12-18.35.42:012][620]CompilerResultsLog: UnrealHeaderTool failed for target 'BatteryCollectorEditor' (platform: Win64, module info: C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest).
+[2018.06.12-18.35.42:012][620]LogMainFrame: MainFrame: Module compiling took 12.595 seconds
+[2018.06.12-18.35.42:012][620]Warning: HotReload failed, recompile failed
+[2018.06.12-18.35.54:438][ 78]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.02:735][ 99]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.02:764][100]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.03:112][101]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.05:812][102]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.19:140][142]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.19:474][143]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.19:807][144]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.20:141][145]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.20:950][146]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-18.36.21:061][147]LogVSAccessor: Warning: Couldn't get Visual Studio COM object
+[2018.06.12-18.36.21:069][147]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.36.21:076][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:076][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:076][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:077][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:077][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:077][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:077][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:077][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:078][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:078][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:078][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:078][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:079][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:079][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:079][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:079][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:079][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:080][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:080][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:080][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:080][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:081][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:081][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:081][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:081][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:081][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:082][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:082][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:082][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:082][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:082][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:083][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:083][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:083][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:083][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:083][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:084][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:084][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:084][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:084][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:084][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:085][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:085][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:085][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:085][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:085][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:086][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:086][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:086][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:086][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:087][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:087][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:087][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:091][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:091][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:091][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:093][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:093][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:093][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:093][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:094][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:094][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:094][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:094][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:095][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:095][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:095][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:095][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:096][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:096][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:096][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:096][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:096][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:097][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:097][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:097][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:097][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:097][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:098][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:098][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:098][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:098][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:098][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:099][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:099][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:099][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:099][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:100][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:100][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:100][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:100][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:104][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:104][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:104][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:104][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:104][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:105][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:105][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:106][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:132][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:144][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:145][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:146][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:150][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:166][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:166][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:166][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:177][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:182][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:182][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:188][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:188][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:193][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:193][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.36.21:203][147]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-18.37.26:802][602]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.37.26:808][602]Candidate modules for hot reload:
+[2018.06.12-18.37.26:808][602]  BatteryCollector
+[2018.06.12-18.37.26:809][602]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 2431 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-18.37.26:812][602]Warning: Starting HotReload took  0.0s.
+[2018.06.12-18.37.41:355][860]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 10:37:41 AM
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-18.37.41:356][860]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Reflection code generated for BatteryCollectorEditor in 10.1548667 seconds
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: BatteryCollector.init.gen.cpp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: BatteryCollectorGameMode.cpp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: BatteryCollectorCharacter.gen.cpp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: BatteryCollectorCharacter.cpp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Error: C:\Git_Fast\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.cpp(51) : warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641) : note: see declaration of 'USceneComponent::AttachTo'
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: [5/6] Link UE4Editor-BatteryCollector-2431.dll
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: [6/6] Link UE4Editor-BatteryCollector-2431.lib
+[2018.06.12-18.37.41:356][860]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2431.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2431.exp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2431.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-2431.suppressed.exp
+[2018.06.12-18.37.41:356][860]CompilerResultsLog: Total build time: 14.32 seconds (Local executor: 2.94 seconds)
+[2018.06.12-18.37.41:356][860]LogMainFrame: MainFrame: Module compiling took 14.555 seconds
+[2018.06.12-18.37.41:440][860]LogClass: Could not find existing class BatteryCollectorCharacter in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-18.37.41:440][860]LogClass: Function CollectPickups is new.
+[2018.06.12-18.37.41:440][860]LogClass: Function GetCurrentPower is new.
+[2018.06.12-18.37.41:440][860]LogClass: Function GetInitialPower is new.
+[2018.06.12-18.37.41:440][860]LogClass: Function UpdatePower is new.
+[2018.06.12-18.37.41:454][860]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-18.37.41:850][860]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-18.37.42:127][860]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0010 seconds. Added 5 classes and 2 folders.
+[2018.06.12-18.37.42:131][860]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.06.12-18.37.42:429][860]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-18.37.42:433][860]Display: HotReload took 15.6s.
+[2018.06.12-18.37.57:733][786]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.06.12-18.37.57:749][786]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.37.57:997][786]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.37.58:144][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.06.12-18.37.58:150][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2018.06.12-18.37.58:157][786]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.06.12-18.38.08:985][610]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.06.12-18.38.08:985][610]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.06.12-18.38.08:985][610]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.06.12-18.38.08:985][610]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.12-18.38.08:986][610]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.12-18.38.28:850][411]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.38.29:013][411]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.38.29:226][411]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.38.29:403][411]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.06.12-18.38.29:635][411]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.06.12-18.38.35:398][411]TextureStreamingBuild: Display: Compiling optional shaders took 5.771 seconds.
+[2018.06.12-18.39.02:715][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/CollectionLevel' took 0.029
+[2018.06.12-18.39.02:719][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.06.12-18.39.02:732][ 49]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.06.12-18.39.02:732][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter]
+[2018.06.12-18.39.02:772][ 49]LogSavePackage: Save=29.62ms
+[2018.06.12-18.39.02:772][ 49]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/ThirdPersonCharacter_Auto10B99DEDE4B6A4007A47F7C9DEAB6FBC9.tmp' to '../../../../../../Git_Fast/BatteryCollector/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.06.12-18.39.02:774][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Saved/Autosaves/Game/ThirdPersonCPP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.06.12-18.39.02:775][ 49]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Character/Materials/M_UE4Man_Body] ([1] browsable assets)...
+[2018.06.12-18.39.02:787][ 49]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Mannequin/Character/Materials/M_UE4Man_Body.M_UE4Man_Body]
+[2018.06.12-18.39.02:787][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Character/Materials/M_UE4Man_Body]
+[2018.06.12-18.39.02:820][ 49]LogSavePackage: Save=22.80ms
+[2018.06.12-18.39.02:820][ 49]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/M_UE4Man_Body_Auto1AB6133EC4F421D21DA4551BF02F64241.tmp' to '../../../../../../Git_Fast/BatteryCollector/Saved/Autosaves/Game/Mannequin/Character/Materials/M_UE4Man_Body_Auto1.uasset'
+[2018.06.12-18.39.02:822][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Saved/Autosaves/Game/Mannequin/Character/Materials/M_UE4Man_Body_Auto1.uasset
+[2018.06.12-18.39.02:822][ 49]LogFileHelpers: Auto-saving content packages took 0.106
+[2018.06.12-18.40.28:709][240]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.12-18.40.30:103][334]LogSavePackage: Save=39.44ms
+[2018.06.12-18.40.30:103][334]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/ThirdPersonCharacter125D17AA410F5471C2F99BAF3216FB01.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.12-18.40.30:111][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.12-18.43.11:470][994]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.12-18.43.12:835][ 66]LogSavePackage: Save=44.54ms
+[2018.06.12-18.43.12:836][ 66]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/ThirdPersonCharacter7F13648A4E8700ECE7E7D094FC4C0F5F.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.12-18.43.12:840][ 66]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.12-18.43.18:426][709]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-18.43.18:433][709]Candidate modules for hot reload:
+[2018.06.12-18.43.18:433][709]  BatteryCollector
+[2018.06.12-18.43.18:433][709]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 2144 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-18.43.18:437][709]Warning: Starting HotReload took  0.0s.
+[2018.06.12-18.43.19:872][852]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 10:43:19 AM
+[2018.06.12-18.43.19:872][852]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-18.43.19:873][852]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-18.43.19:873][852]CompilerResultsLog: Target is up to date
+[2018.06.12-18.43.19:873][852]CompilerResultsLog: Total build time: 1.21 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.06.12-18.43.19:873][852]LogMainFrame: MainFrame: Module compiling took 1.445 seconds
+[2018.06.12-18.43.20:175][852]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-18.43.20:180][852]Display: HotReload took  1.8s.
+[2018.06.12-18.44.58:200][965]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.06.12-18.45.00:103][ 61]LogSavePackage: Save=42.64ms
+[2018.06.12-18.45.00:103][ 61]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/ThirdPersonCharacter59B562E84156BC961FB99EB4C6A23014.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.06.12-18.45.00:107][ 61]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset
+[2018.06.12-18.45.03:485][259]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-18.45.03:506][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-18.45.03:506][259]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 10:45:03 AM)
+[2018.06.12-18.45.03:506][259]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-18.45.03:515][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009133s)
+[2018.06.12-18.45.03:516][259]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-18.45.03:517][259]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.06.12-18.45.03:517][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.011189s)
+[2018.06.12-18.45.03:574][259]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-18.45.03:584][259]LogInit: FAudioDevice initialized.
+[2018.06.12-18.45.03:620][259]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-18.45.03:622][259]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-14.45.03
+[2018.06.12-18.45.03:623][259]LogWorld: Bringing up level for play took: 0.001643
+[2018.06.12-18.45.03:625][259]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 0.386
+[2018.06.12-18.45.07:304][671]LogClass: You have collected Battery_BP_C_0
+[2018.06.12-18.45.09:842][964]LogClass: You have collected Pickup_BP_2
+[2018.06.12-18.45.09:842][964]LogClass: You have collected Battery_BP_C_1
+[2018.06.12-18.45.32:156][  2]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-18.45.32:174][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-18.45.32:175][  2]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 10:45:32 AM)
+[2018.06.12-18.45.32:175][  2]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-18.45.32:180][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2018.06.12-18.45.32:181][  2]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-18.45.32:181][  2]LogPlayLevel: PIE: World Init took: (0.000883s)
+[2018.06.12-18.45.32:182][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.007072s)
+[2018.06.12-18.45.32:218][  2]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-18.45.32:229][  2]LogInit: FAudioDevice initialized.
+[2018.06.12-18.45.32:266][  2]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-18.45.32:269][  2]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-14.45.32
+[2018.06.12-18.45.32:269][  2]LogWorld: Bringing up level for play took: 0.002116
+[2018.06.12-18.45.32:272][  2]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.033
+[2018.06.12-18.46.29:110][215]LogClass: You have collected Battery_BP_C_15
+[2018.06.12-18.46.29:111][215]LogClass: You have collected Battery_BP_C_2
+[2018.06.12-18.46.29:111][215]LogClass: You have collected Battery_BP_C_18
+[2018.06.12-18.46.29:111][215]LogClass: You have collected Battery_BP_C_14
+[2018.06.12-18.46.29:111][215]LogClass: You have collected Pickup_BP_2
+[2018.06.12-18.46.29:111][215]LogClass: You have collected Battery_BP_C_16
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_8
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_4
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_19
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_7
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_5
+[2018.06.12-18.46.29:112][215]LogClass: You have collected Battery_BP_C_10
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_9
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_20
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_6
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_11
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_3
+[2018.06.12-18.46.29:113][215]LogClass: You have collected Battery_BP_C_0
+[2018.06.12-18.46.34:202][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-18.46.34:369][527]LogSavePackage: Save=124.34ms
+[2018.06.12-18.46.34:369][527]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel18A123A14ABDAB4D2D3FDBAFB85BD673.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-18.46.34:371][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-18.46.34:404][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-18.46.34:671][527]LogSavePackage: Save=246.12ms
+[2018.06.12-18.46.34:671][527]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData9ED629B849FA9F7FFFE84E886F02CFB8.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-18.46.34:674][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-18.46.37:805][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Character/Materials/M_UE4Man_Body" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" SILENT=true
+[2018.06.12-18.46.37:832][733]LogSavePackage: Save=14.61ms
+[2018.06.12-18.46.37:832][733]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/M_UE4Man_BodyC220A1B040D7222284CD25A9CA4C19F6.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2018.06.12-18.46.37:839][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
