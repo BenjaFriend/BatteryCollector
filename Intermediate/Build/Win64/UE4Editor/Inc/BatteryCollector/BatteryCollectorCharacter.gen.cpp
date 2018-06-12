@@ -17,12 +17,35 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorCharacter() {}
 	BATTERYCOLLECTOR_API UClass* Z_Construct_UClass_ABatteryCollectorCharacter();
 	ENGINE_API UClass* Z_Construct_UClass_ACharacter();
 	UPackage* Z_Construct_UPackage__Script_BatteryCollector();
+	BATTERYCOLLECTOR_API UFunction* Z_Construct_UFunction_ABatteryCollectorCharacter_CollectPickups();
 	ENGINE_API UClass* Z_Construct_UClass_USphereComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UCameraComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_USpringArmComponent_NoRegister();
 // End Cross Module References
 	void ABatteryCollectorCharacter::StaticRegisterNativesABatteryCollectorCharacter()
 	{
+		UClass* Class = ABatteryCollectorCharacter::StaticClass();
+		static const FNameNativePtrPair Funcs[] = {
+			{ "CollectPickups", (Native)&ABatteryCollectorCharacter::execCollectPickups },
+		};
+		FNativeFunctionRegistrar::RegisterFunctions(Class, Funcs, ARRAY_COUNT(Funcs));
+	}
+	UFunction* Z_Construct_UFunction_ABatteryCollectorCharacter_CollectPickups()
+	{
+		static UFunction* ReturnFunction = nullptr;
+		if (!ReturnFunction)
+		{
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam Function_MetaDataParams[] = {
+				{ "Category", "Pickups" },
+				{ "ModuleRelativePath", "BatteryCollectorCharacter.h" },
+				{ "ToolTip", "Called when er press a key to collect any pickups inside the CollectionSphere" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFunctionParams FuncParams = { (UObject*(*)())Z_Construct_UClass_ABatteryCollectorCharacter, "CollectPickups", RF_Public|RF_Transient|RF_MarkAsNative, nullptr, (EFunctionFlags)0x04080401, 0, nullptr, 0, 0, 0, METADATA_PARAMS(Function_MetaDataParams, ARRAY_COUNT(Function_MetaDataParams)) };
+			UE4CodeGen_Private::ConstructUFunction(ReturnFunction, FuncParams);
+		}
+		return ReturnFunction;
 	}
 	UClass* Z_Construct_UClass_ABatteryCollectorCharacter_NoRegister()
 	{
@@ -36,6 +59,9 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorCharacter() {}
 			static UObject* (*const DependentSingletons[])() = {
 				(UObject* (*)())Z_Construct_UClass_ACharacter,
 				(UObject* (*)())Z_Construct_UPackage__Script_BatteryCollector,
+			};
+			static const FClassFunctionLinkInfo FuncInfo[] = {
+				{ &Z_Construct_UFunction_ABatteryCollectorCharacter_CollectPickups, "CollectPickups" }, // 3144206322
 			};
 #if WITH_METADATA
 			static const UE4CodeGen_Private::FMetaDataPairParam Class_MetaDataParams[] = {
@@ -104,7 +130,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorCharacter() {}
 				&ABatteryCollectorCharacter::StaticClass,
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00800080u,
-				nullptr, 0,
+				FuncInfo, ARRAY_COUNT(FuncInfo),
 				PropPointers, ARRAY_COUNT(PropPointers),
 				"Game",
 				&StaticCppClassTypeInfo,
@@ -115,7 +141,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorCharacter() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABatteryCollectorCharacter, 1633089452);
+	IMPLEMENT_CLASS(ABatteryCollectorCharacter, 3985696322);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABatteryCollectorCharacter(Z_Construct_UClass_ABatteryCollectorCharacter, &ABatteryCollectorCharacter::StaticClass, TEXT("/Script/BatteryCollector"), TEXT("ABatteryCollectorCharacter"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABatteryCollectorCharacter);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

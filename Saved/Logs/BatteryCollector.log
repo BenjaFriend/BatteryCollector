@@ -1492,3 +1492,26 @@ LogInit: Object subsystem initialized
 [2018.06.12-16.30.47:883][ 17]LogSavePackage: Save=253.52ms
 [2018.06.12-16.30.47:883][ 17]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData82FD8D604A5ACF6B26B3718F6B205302.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
 [2018.06.12-16.30.47:885][ 17]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-16.40.26:594][877]LogHotReload: New module detected: UE4Editor-BatteryCollector-1679.dll
+[2018.06.12-16.40.27:278][880]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-16.40.27:384][880]LogClass: Could not find existing class BatteryPickup in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-16.40.27:385][880]LogClass: Could not find existing class Pickup in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-16.40.27:385][880]LogClass: Function IsActive is new.
+[2018.06.12-16.40.27:385][880]LogClass: Function SetActive is new.
+[2018.06.12-16.40.27:385][880]LogClass: Function WasCollected is new.
+[2018.06.12-16.40.27:402][880]LogHotReload: Re-instancing BatteryPickup after hot-reload.
+[2018.06.12-16.40.27:712][880]LogHotReload: Re-instancing Pickup after hot-reload.
+[2018.06.12-16.40.28:086][880]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-16.40.28:360][880]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2018.06.12-16.40.28:364][880]Display: HotReload successful (1 functions remapped  0 scriptstructs remapped)
+[2018.06.12-16.40.28:696][880]LogContentBrowser: Native class hierarchy populated in 0.0109 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-16.40.28:708][880]Display: HotReload took  1.4s.
+[2018.06.12-16.47.33:383][154]LogHotReload: New module detected: UE4Editor-BatteryCollector-7135.dll
+[2018.06.12-16.47.34:066][157]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-16.47.34:217][157]LogClass: Could not find existing class BatteryCollectorCharacter in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-16.47.34:233][157]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-16.47.34:367][157]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-16.47.34:703][157]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2018.06.12-16.47.34:707][157]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.06.12-16.47.35:068][157]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-16.47.35:085][157]Display: HotReload took  1.0s.

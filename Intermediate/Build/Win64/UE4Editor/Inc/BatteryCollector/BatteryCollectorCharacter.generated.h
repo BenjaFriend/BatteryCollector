@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTERYCOLLECTOR_BatteryCollectorCharacter_generated_h
 
-#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS
-#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execCollectPickups) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->CollectPickups(); \
+		P_NATIVE_END; \
+	}
+
+
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execCollectPickups) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		this->CollectPickups(); \
+		P_NATIVE_END; \
+	}
+
+
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABatteryCollectorCharacter(); \

@@ -63,6 +63,10 @@ protected:
 	/** Handler for when a touch input stops. */
 	void TouchStopped(ETouchIndex::Type FingerIndex, FVector Location);
 
+	/** Called when er press a key to collect any pickups inside the CollectionSphere */
+	UFUNCTION(BlueprintCallable, Category = "Pickups")
+	void CollectPickups();
+
 protected:
 	// APawn interface
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;

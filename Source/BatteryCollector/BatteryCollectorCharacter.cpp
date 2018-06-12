@@ -9,6 +9,7 @@
 #include "GameFramework/CharacterMovementComponent.h"
 #include "GameFramework/Controller.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Pickup.h"
 
 //////////////////////////////////////////////////////////////////////////
 // ABatteryCollectorCharacter
@@ -46,7 +47,7 @@ ABatteryCollectorCharacter::ABatteryCollectorCharacter()
 
 	// Create the Collection Sphere
 	CollectionSphere = CreateDefaultSubobject<USphereComponent>(TEXT("CollectionSphere"));
-	CollectionSphere->SetupAttachment(RootComponent);
+	CollectionSphere->AttachTo(RootComponent);
 	CollectionSphere->SetSphereRadius(200.f);
 
 	// Note: The skeletal mesh and anim blueprint references on the Mesh component (inherited from Character) 
@@ -62,6 +63,8 @@ void ABatteryCollectorCharacter::SetupPlayerInputComponent(class UInputComponent
 	check(PlayerInputComponent);
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
+
+	PlayerInputComponent->BindAction("Collect", IE_Pressed, this, &ABatteryCollectorCharacter::CollectPickups);
 
 	PlayerInputComponent->BindAxis("MoveForward", this, &ABatteryCollectorCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &ABatteryCollectorCharacter::MoveRight);
@@ -136,5 +139,27 @@ void ABatteryCollectorCharacter::MoveRight(float Value)
 		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
 		// add movement in that direction
 		AddMovementInput(Direction, Value);
+	}
+}
+
+void ABatteryCollectorCharacter::CollectPickups()
+{
+	// Get all overlapping ACtors and store them in an array
+	TArray<AActor*> CollectedActors;
+	CollectionSphere->GetOverlappingActors(CollectedActors);
+
+	// For each actor we collect
+	for (int32 iCollected = 0; iCollected < CollectedActors.Num(); ++iCollected)
+	{
+		// Cast the actor to a APickup
+		APickup* const TestPickup = Cast<APickup>(CollectedActors[iCollected]);
+		// If the cast is successful and the pickup is valid and and active
+		if (TestPickup && !TestPickup->IsPendingKill() && TestPickup->IsActive())
+		{
+			// Call the pickup's WasCollected function
+			TestPickup->WasCollected();
+			// Deactive the pickup
+			TestPickup->SetActive(false);
+		}
 	}
 }
