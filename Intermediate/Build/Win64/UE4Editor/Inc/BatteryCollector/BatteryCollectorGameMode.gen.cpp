@@ -42,6 +42,17 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 				{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 			};
 #endif
+#if WITH_METADATA
+			static const UE4CodeGen_Private::FMetaDataPairParam NewProp_DecayRate_MetaData[] = {
+				{ "Category", "Power" },
+				{ "ModuleRelativePath", "BatteryCollectorGameMode.h" },
+				{ "ToolTip", "The rate at which the character loses power" },
+			};
+#endif
+			static const UE4CodeGen_Private::FFloatPropertyParams NewProp_DecayRate = { UE4CodeGen_Private::EPropertyClass::Float, "DecayRate", RF_Public|RF_Transient|RF_MarkAsNative, 0x0020080000010005, 1, nullptr, STRUCT_OFFSET(ABatteryCollectorGameMode, DecayRate), METADATA_PARAMS(NewProp_DecayRate_MetaData, ARRAY_COUNT(NewProp_DecayRate_MetaData)) };
+			static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[] = {
+				(const UE4CodeGen_Private::FPropertyParamsBase*)&NewProp_DecayRate,
+			};
 			static const FCppClassTypeInfoStatic StaticCppClassTypeInfo = {
 				TCppClassTypeTraits<ABatteryCollectorGameMode>::IsAbstract,
 			};
@@ -50,7 +61,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 				DependentSingletons, ARRAY_COUNT(DependentSingletons),
 				0x00880288u,
 				nullptr, 0,
-				nullptr, 0,
+				PropPointers, ARRAY_COUNT(PropPointers),
 				nullptr,
 				&StaticCppClassTypeInfo,
 				nullptr, 0,
@@ -60,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeBatteryCollectorGameMode() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABatteryCollectorGameMode, 2986093520);
+	IMPLEMENT_CLASS(ABatteryCollectorGameMode, 3326678585);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABatteryCollectorGameMode(Z_Construct_UClass_ABatteryCollectorGameMode, &ABatteryCollectorGameMode::StaticClass, TEXT("/Script/BatteryCollector"), TEXT("ABatteryCollectorGameMode"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABatteryCollectorGameMode);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
