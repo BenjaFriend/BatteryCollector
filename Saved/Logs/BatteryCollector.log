@@ -583,3 +583,477 @@ LogInit: Object subsystem initialized
 [2018.06.12-14.55.43:376][ 42]LogMainFrame: MainFrame: Module compiling took 6.577 seconds
 [2018.06.12-14.55.43:398][ 42]LogContentBrowser: Native class hierarchy populated in 0.0106 seconds. Added 2368 classes and 525 folders.
 [2018.06.12-14.55.43:401][ 42]Display: HotReload took  6.6s.
+[2018.06.12-14.58.25:507][620]LogWindows: LaunchFileInExternalEditor C:/Git_Fast/BatteryCollector/Source/BatteryCollector/Pickup.h 
+[2018.06.12-14.58.25:662][620]LogWindows: Launch application code for C:/Git_Fast/BatteryCollector/Source/BatteryCollector/Pickup.h : 42
+[2018.06.12-14.58.25:662][620]LogWindows: LaunchFileInExternalEditor C:/Git_Fast/BatteryCollector/Source/BatteryCollector/Pickup.cpp 
+[2018.06.12-14.58.25:736][620]LogWindows: Launch application code for C:/Git_Fast/BatteryCollector/Source/BatteryCollector/Pickup.cpp : 42
+[2018.06.12-14.58.25:736][620]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-14.58.25:741][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:741][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:741][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:742][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:743][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:743][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:743][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:743][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:743][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:744][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:744][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:744][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:744][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:744][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:745][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:745][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:745][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:745][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:745][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:746][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:746][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:746][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:747][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:747][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:747][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:747][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:748][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:749][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:750][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:750][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:750][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:750][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:750][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:751][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:751][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:751][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:751][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:751][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:755][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:755][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:756][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:756][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:757][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:757][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:757][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:757][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:757][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:758][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:759][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:760][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:761][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:761][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:761][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:761][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:761][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:762][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:762][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:762][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:762][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:763][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:766][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:766][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:766][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:767][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:767][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:767][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:767][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:768][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:799][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:814][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:815][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:815][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:819][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:833][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:833][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:834][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:850][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:853][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:854][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:855][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:855][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:858][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:859][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-14.58.25:868][620]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.04.55:626][790]LogHotReload: New module detected: UE4Editor-BatteryCollector-6204.dll
+[2018.06.12-15.04.56:305][793]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-15.04.56:399][793]LogClass: Could not find existing class Pickup in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-15.04.56:405][793]LogHotReload: Re-instancing Pickup after hot-reload.
+[2018.06.12-15.04.56:460][793]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2018.06.12-15.04.56:462][793]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.04.56:513][793]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2368 classes and 525 folders.
+[2018.06.12-15.04.56:522][793]Display: HotReload took  0.2s.
+[2018.06.12-15.05.01:876][989]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.05.01:883][989]Candidate modules for hot reload:
+[2018.06.12-15.05.01:883][989]  BatteryCollector
+[2018.06.12-15.05.01:883][989]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 3711 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-15.05.01:886][989]Warning: Starting HotReload took  0.0s.
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 7:05:08 AM
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: Creating makefile for hot reloading BatteryCollector (modules to compile have changed)
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: Target is up to date
+[2018.06.12-15.05.08:719][789]CompilerResultsLog: Total build time: 6.61 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.06.12-15.05.08:720][789]LogMainFrame: MainFrame: Module compiling took 6.844 seconds
+[2018.06.12-15.05.08:738][789]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2368 classes and 525 folders.
+[2018.06.12-15.05.08:741][789]Display: HotReload took  6.9s.
+[2018.06.12-15.05.28:580][136]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.05.28:587][136]Candidate modules for hot reload:
+[2018.06.12-15.05.28:588][136]  BatteryCollector
+[2018.06.12-15.05.28:588][136]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 7915 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-15.05.28:591][136]Warning: Starting HotReload took  0.0s.
+[2018.06.12-15.05.31:177][427]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 7:05:31 AM
+[2018.06.12-15.05.31:177][427]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-15.05.31:177][427]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-15.05.31:177][427]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.12-15.05.31:178][427]CompilerResultsLog: Pickup.cpp
+[2018.06.12-15.05.31:178][427]CompilerResultsLog: [2/3] Link UE4Editor-BatteryCollector-7915.dll
+[2018.06.12-15.05.31:178][427]CompilerResultsLog: [3/3] Link UE4Editor-BatteryCollector-7915.lib
+[2018.06.12-15.05.31:178][427]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7915.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7915.exp
+[2018.06.12-15.05.31:178][427]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7915.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7915.suppressed.exp
+[2018.06.12-15.05.31:179][427]CompilerResultsLog: Total build time: 2.37 seconds (Local executor: 1.34 seconds)
+[2018.06.12-15.05.31:179][427]LogMainFrame: MainFrame: Module compiling took 2.599 seconds
+[2018.06.12-15.05.31:253][427]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0008 seconds. Added 3 classes and 2 folders.
+[2018.06.12-15.05.31:255][427]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.05.31:300][427]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2368 classes and 525 folders.
+[2018.06.12-15.05.31:303][427]Display: HotReload took  2.7s.
+[2018.06.12-15.13.21:486][159]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.13.21:494][159]Candidate modules for hot reload:
+[2018.06.12-15.13.21:494][159]  BatteryCollector
+[2018.06.12-15.13.21:494][159]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 1899 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-15.13.21:497][159]Warning: Starting HotReload took  0.0s.
+[2018.06.12-15.13.36:087][860]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 7:13:36 AM
+[2018.06.12-15.13.36:087][860]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-15.13.36:088][860]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Reflection code generated for BatteryCollectorEditor in 11.5222837 seconds
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: BatteryCollector.init.gen.cpp
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Pickup.cpp
+[2018.06.12-15.13.36:088][860]CompilerResultsLog: Pickup.gen.cpp
+[2018.06.12-15.13.36:089][860]CompilerResultsLog: [4/5] Link UE4Editor-BatteryCollector-1899.dll
+[2018.06.12-15.13.36:089][860]CompilerResultsLog: [5/5] Link UE4Editor-BatteryCollector-1899.lib
+[2018.06.12-15.13.36:089][860]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1899.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1899.exp
+[2018.06.12-15.13.36:089][860]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1899.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1899.suppressed.exp
+[2018.06.12-15.13.36:089][860]CompilerResultsLog: Total build time: 14.38 seconds (Local executor: 1.63 seconds)
+[2018.06.12-15.13.36:089][860]LogMainFrame: MainFrame: Module compiling took 14.603 seconds
+[2018.06.12-15.13.36:163][860]LogClass: Could not find existing class Pickup in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-15.13.36:163][860]LogClass: Function IsActive is new.
+[2018.06.12-15.13.36:163][860]LogClass: Function SetActive is new.
+[2018.06.12-15.13.36:169][860]LogHotReload: Re-instancing Pickup after hot-reload.
+[2018.06.12-15.13.36:231][860]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 3 classes and 2 folders.
+[2018.06.12-15.13.36:234][860]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.13.36:291][860]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2368 classes and 525 folders.
+[2018.06.12-15.13.36:295][860]Display: HotReload took 14.8s.
+[2018.06.12-15.14.12:571][874]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 116 classes and 0 folders.
+[2018.06.12-15.14.20:464][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickup_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset" SILENT=true
+[2018.06.12-15.14.20:483][459]LogSavePackage: Save=15.75ms
+[2018.06.12-15.14.20:484][459]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Pickup_BP871CC2C343FDCD2D2049B59A91150499.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset'
+[2018.06.12-15.14.20:491][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset
+[2018.06.12-15.14.52:358][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickup_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset" SILENT=true
+[2018.06.12-15.14.52:387][812]LogSavePackage: Save=21.28ms
+[2018.06.12-15.14.52:388][812]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Pickup_BP713E285F40C14943FF5E30A9C91FC590.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset'
+[2018.06.12-15.14.52:392][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset
+[2018.06.12-15.14.53:026][864]BlueprintLog: New page: Compile Pickup_BP
+[2018.06.12-15.15.04:798][606]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-15.15.04:823][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-15.15.04:824][606]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 7:15:04 AM)
+[2018.06.12-15.15.04:824][606]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-15.15.04:829][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004763s)
+[2018.06.12-15.15.04:830][606]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-15.15.04:830][606]LogPlayLevel: PIE: World Init took: (0.001056s)
+[2018.06.12-15.15.04:830][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.006601s)
+[2018.06.12-15.15.04:858][606]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-15.15.04:869][606]LogInit: FAudioDevice initialized.
+[2018.06.12-15.15.04:906][606]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-15.15.04:908][606]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-11.15.04
+[2018.06.12-15.15.04:909][606]LogWorld: Bringing up level for play took: 0.001782
+[2018.06.12-15.15.04:911][606]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.329
+[2018.06.12-15.16.37:120][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Pickup_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset" SILENT=true
+[2018.06.12-15.16.37:144][641]LogSavePackage: Save=20.82ms
+[2018.06.12-15.16.37:145][641]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Pickup_BP18FD5AF24768951EC8064BAE5139B89B.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset'
+[2018.06.12-15.16.37:150][641]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Pickup_BP.uasset
+[2018.06.12-15.16.37:692][689]BlueprintLog: New page: Compile Pickup_BP
+[2018.06.12-15.16.42:016][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-15.16.42:184][968]LogSavePackage: Save=138.61ms
+[2018.06.12-15.16.42:184][968]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevelDE88A73847B321F4A8F6F280A5E63835.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-15.16.42:188][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-15.16.42:208][968]LogFileHelpers: Saving map 'CollectionLevel' took 0.277
+[2018.06.12-15.19.17:084][853]Running C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" -game -rocket -progress
+[2018.06.12-15.19.17:390][853]Discovering modules, targets and source code for project...
+[2018.06.12-15.19.21:342][853]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.19.21:350][853]Candidate modules for hot reload:
+[2018.06.12-15.19.21:351][853]  BatteryCollector
+[2018.06.12-15.19.21:351][853]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 1689 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-15.19.37:867][853]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 7:19:37 AM
+[2018.06.12-15.19.37:867][853]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-15.19.37:867][853]CompilerResultsLog: Creating makefile for hot reloading BatteryCollector (new files with reflected types)
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-15.19.37:868][853]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: Reflection code generated for BatteryCollectorEditor in 8.3554666 seconds
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: Performing 5 actions (4 in parallel)
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: BatteryPickup.cpp
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: BatteryCollector.init.gen.cpp
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: BatteryPickup.gen.cpp
+[2018.06.12-15.19.37:868][853]CompilerResultsLog: [4/5] Link UE4Editor-BatteryCollector-1689.dll
+[2018.06.12-15.19.37:869][853]CompilerResultsLog: [5/5] Link UE4Editor-BatteryCollector-1689.lib
+[2018.06.12-15.19.37:869][853]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1689.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1689.exp
+[2018.06.12-15.19.37:869][853]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1689.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1689.suppressed.exp
+[2018.06.12-15.19.37:869][853]CompilerResultsLog: Total build time: 16.34 seconds (Local executor: 1.63 seconds)
+[2018.06.12-15.19.37:869][853]LogMainFrame: MainFrame: Module compiling took 16.526 seconds
+[2018.06.12-15.19.37:962][853]LogClass: Could not find existing class BatteryPickup in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-15.19.37:967][853]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0008 seconds. Added 4 classes and 2 folders.
+[2018.06.12-15.19.37:970][853]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.19.38:283][853]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2369 classes and 525 folders.
+[2018.06.12-15.19.38:287][853]Display: HotReload took 16.9s.
+[2018.06.12-15.19.38:289][853]Warning: HotReload operation took 16.9s.
+[2018.06.12-15.19.38:334][853]LogHotReload: New module detected: UE4Editor-BatteryCollector-1689.dll
+[2018.06.12-15.19.38:382][854]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-15.19.38:520][854]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 4 classes and 2 folders.
+[2018.06.12-15.19.38:523][854]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.19.38:834][854]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2369 classes and 525 folders.
+[2018.06.12-15.19.38:845][854]Display: HotReload took  0.5s.
+[2018.06.12-15.19.59:185][ 53]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.08:946][ 81]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.09:278][ 82]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.09:611][ 83]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.09:945][ 84]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.10:277][ 85]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.10:611][ 86]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.10:945][ 87]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.11:279][ 88]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.11:612][ 89]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.11:944][ 90]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.12:278][ 91]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.12:611][ 92]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.12:946][ 93]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.20.14:693][ 97]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.06.12-15.24.36:714][884]LogHotReload: New module detected: UE4Editor-BatteryCollector-6202.dll
+[2018.06.12-15.24.37:402][887]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-15.24.37:550][887]LogHotReload: Re-instancing BatteryPickup after hot-reload.
+[2018.06.12-15.24.37:649][887]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 4 classes and 2 folders.
+[2018.06.12-15.24.37:652][887]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2018.06.12-15.24.37:979][887]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2369 classes and 525 folders.
+[2018.06.12-15.24.37:994][887]Display: HotReload took  0.6s.
+[2018.06.12-15.24.38:342][888]LogWindows: LaunchFileInExternalEditor C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryPickup.h 
+[2018.06.12-15.24.40:789][888]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2018.06.12-15.24.41:775][888]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2018.06.12-15.24.44:097][888]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2018.06.12-15.24.44:795][888]LogWindows: Launch application code for C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryPickup.h : 42
+[2018.06.12-15.24.44:795][888]LogWindows: LaunchFileInExternalEditor C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryPickup.cpp 
+[2018.06.12-15.24.44:884][888]LogWindows: Launch application code for C:/Git_Fast/BatteryCollector/Source/BatteryCollector/BatteryPickup.cpp : 42
+[2018.06.12-15.24.44:885][888]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.24.44:893][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:893][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:893][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:893][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:893][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:894][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:894][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:894][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:895][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:895][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:895][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:895][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:895][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:896][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:896][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:896][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:896][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:897][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:897][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:897][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:898][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:898][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:898][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:898][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:898][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:899][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:900][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:901][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:901][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:901][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:901][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:901][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:902][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:902][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:902][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:902][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:902][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:903][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:903][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:903][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:903][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:904][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:904][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:907][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:907][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:907][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:908][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:909][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:909][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:909][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:909][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:910][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:910][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:910][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:910][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:910][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:911][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:911][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:911][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:912][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:912][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:912][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:912][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:912][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:913][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:914][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:915][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:915][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:915][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:915][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:918][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:919][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:919][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:919][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:919][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:919][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:920][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:920][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:948][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:959][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:959][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:963][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:968][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:986][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:987][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.44:987][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:000][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:003][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:003][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:008][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:008][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:012][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:013][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:024][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.45:026][888]LogVSAccessor: Warning: Couldn't access module table
+[2018.06.12-15.24.56:481][190]LogEditorViewport: Clicking on Actor (context menu): BP_DemoRoom_C (BP_DemoRoom)
+[2018.06.12-15.25.11:506][762]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-15.25.11:515][762]Candidate modules for hot reload:
+[2018.06.12-15.25.11:515][762]  BatteryCollector
+[2018.06.12-15.25.11:515][762]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 5468 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-15.25.11:518][762]Warning: Starting HotReload took  0.0s.
+[2018.06.12-15.25.18:625][470]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 7:25:18 AM
+[2018.06.12-15.25.18:626][470]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-15.25.18:626][470]CompilerResultsLog: Creating makefile for hot reloading BatteryCollector (modules to compile have changed)
+[2018.06.12-15.25.18:626][470]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-15.25.18:626][470]CompilerResultsLog: Target is up to date
+[2018.06.12-15.25.18:626][470]CompilerResultsLog: Total build time: 6.89 seconds (NoActionsToExecute executor: 0.00 seconds)
+[2018.06.12-15.25.18:626][470]LogMainFrame: MainFrame: Module compiling took 7.120 seconds
+[2018.06.12-15.25.18:920][470]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2369 classes and 525 folders.
+[2018.06.12-15.25.18:924][470]Display: HotReload took  7.4s.
+[2018.06.12-15.25.31:487][474]LogRenderer: Reallocating scene render targets to support 1616x696 Format 10 NumSamples 1 (Frame:164).
+[2018.06.12-15.25.39:034][901]LogTexture: Display: Building textures: T_Battery_M (AutoDXT, 512X512)
+[2018.06.12-15.25.39:035][901]LogMaterial: Missing cached shader map for material M_Battery, compiling. 
+[2018.06.12-15.25.39:075][901]LogStaticMesh: Building static mesh SM_Battery_Medium...
+[2018.06.12-15.25.39:098][901]LogStaticMesh: Built static mesh [0.02s] /Game/ExampleContent/Blueprint_Communication/Meshes/SM_Battery_Medium.SM_Battery_Medium
+[2018.06.12-15.25.55:453][  6]BlueprintLog: New page: Compile Battery_BP
+[2018.06.12-15.25.56:834][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-15.25.56:857][ 74]LogSavePackage: Save=20.10ms
+[2018.06.12-15.25.56:857][ 74]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BPCBCCD495499F3F19223B599AD7ED752E.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-15.25.56:862][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-15.26.04:682][800]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-15.26.04:701][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-15.26.04:701][800]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 7:26:04 AM)
+[2018.06.12-15.26.04:702][800]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-15.26.04:706][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004529s)
+[2018.06.12-15.26.04:707][800]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-15.26.04:708][800]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2018.06.12-15.26.04:708][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.006650s)
+[2018.06.12-15.26.04:760][800]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-15.26.04:774][800]LogInit: FAudioDevice initialized.
+[2018.06.12-15.26.04:808][800]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-15.26.04:810][800]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-11.26.04
+[2018.06.12-15.26.04:810][800]LogWorld: Bringing up level for play took: 0.001743
+[2018.06.12-15.26.04:813][800]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.428
+[2018.06.12-15.26.09:406][327]LogEditorViewport: Clicking on Actor (LMB): Battery_BP_C (Battery_BP)
+[2018.06.12-15.26.45:528][177]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.06.12-15.27.50:308][ 84]LogSavePackage: Save=17.12ms
+[2018.06.12-15.27.50:309][ 84]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/SM_Battery_MediumA11878124483CD43F4F2FA8ADE8CAC7F.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/ExampleContent/Blueprint_Communication/Meshes/SM_Battery_Medium.uasset'
+[2018.06.12-15.27.50:314][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/ExampleContent/Blueprint_Communication/Meshes/SM_Battery_Medium.uasset
+[2018.06.12-15.27.55:339][453]LogRenderer: Reallocating scene render targets to support 1912x924 Format 10 NumSamples 1 (Frame:5313).
+[2018.06.12-15.27.58:147][756]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-15.27.58:161][756]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-15.27.58:162][756]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 7:27:58 AM)
+[2018.06.12-15.27.58:162][756]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-15.27.58:166][756]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004157s)
+[2018.06.12-15.27.58:167][756]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-15.27.58:167][756]LogPlayLevel: PIE: World Init took: (0.001132s)
+[2018.06.12-15.27.58:168][756]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.006082s)
+[2018.06.12-15.27.58:195][756]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-15.27.58:205][756]LogInit: FAudioDevice initialized.
+[2018.06.12-15.27.58:240][756]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-15.27.58:242][756]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-11.27.58
+[2018.06.12-15.27.58:242][756]LogWorld: Bringing up level for play took: 0.001752
+[2018.06.12-15.27.58:245][756]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel 1.005
+[2018.06.12-15.28.02:048][192]LogCharacterMovement: ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=297.47 Y=-242.60 Z=0.00 Location: X=1598.58 Y=540.83 Z=175.27 Normal: X=0.00 Y=-1.00 Z=0.00 PenetrationDepth:2.828 Actor:Pickup_BP_2 Component:PickupMesh BoneName:None (0 other events since notify)
+[2018.06.12-15.28.11:986][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-15.28.12:146][332]LogSavePackage: Save=131.95ms
+[2018.06.12-15.28.12:147][332]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel7FACF8BA4F253334AFCC75B376DA5EB5.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-15.28.12:150][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-15.28.12:178][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-15.28.12:448][332]LogSavePackage: Save=254.39ms
+[2018.06.12-15.28.12:448][332]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData0159B0494A362120826A96A6D3AABA42.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-15.28.12:450][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset

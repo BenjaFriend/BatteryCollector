@@ -422,6 +422,8 @@
 		<ClInclude Include="..\..\Source\BatteryCollector\BatteryCollectorCharacter.h" />
 		<ClCompile Include="..\..\Source\BatteryCollector\BatteryCollectorGameMode.cpp" />
 		<ClInclude Include="..\..\Source\BatteryCollector\BatteryCollectorGameMode.h" />
+		<ClCompile Include="..\..\Source\BatteryCollector\BatteryPickup.cpp" />
+		<ClInclude Include="..\..\Source\BatteryCollector\BatteryPickup.h" />
 		<ClCompile Include="..\..\Source\BatteryCollector\Pickup.cpp" />
 		<ClInclude Include="..\..\Source\BatteryCollector\Pickup.h" />
 	</ItemGroup>
