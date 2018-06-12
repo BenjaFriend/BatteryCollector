@@ -1,0 +1,3 @@
+C:\Git_Fast\BatteryCollector\Source\BatteryCollector\BatteryCollector.Build.cs
+C:\Git_Fast\BatteryCollector\Source\BatteryCollector.Target.cs
+C:\Git_Fast\BatteryCollector\Source\BatteryCollectorEditor.Target.cs
