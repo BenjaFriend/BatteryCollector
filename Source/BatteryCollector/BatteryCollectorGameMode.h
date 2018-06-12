@@ -64,6 +64,8 @@ private:
 	/** Array of all spawn volumes in the level */
 	TArray<class ASpawnVolume*> SpawnVolumeActors;
 
+	/** Handle any function calls that rely upon changing the playing state of our game */
+	void HandleNewState(EBatteryPlayState NewState);
 
 };
 

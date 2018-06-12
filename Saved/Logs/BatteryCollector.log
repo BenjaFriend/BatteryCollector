@@ -2780,3 +2780,36 @@ LogInit: Object subsystem initialized
 [2018.06.12-19.54.46:669][430]LogSavePackage: Save=263.52ms
 [2018.06.12-19.54.46:669][430]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData03EB515A48B402B5B83EB78CD7836DF2.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
 [2018.06.12-19.54.46:672][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-20.00.14:089][754]LogHotReload: New module detected: UE4Editor-BatteryCollector-6631.dll
+[2018.06.12-20.00.14:772][757]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-20.00.14:925][757]LogClass: Could not find existing class SpawnVolume in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-20.00.14:925][757]LogClass: Function GetRandomPointInVolume is new.
+[2018.06.12-20.00.14:925][757]LogClass: Function SetSpawningActive is new.
+[2018.06.12-20.00.14:925][757]LogClass: EBatteryPlayState HotReload.
+[2018.06.12-20.00.14:929][757]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-20.00.15:700][757]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-20.00.16:082][757]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2018.06.12-20.00.16:087][757]Display: HotReload successful (9 functions remapped  0 scriptstructs remapped)
+[2018.06.12-20.00.16:446][757]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2373 classes and 529 folders.
+[2018.06.12-20.00.16:459][757]Display: HotReload took  1.7s.
+[2018.06.12-20.00.59:659][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-20.00.59:877][302]LogSavePackage: Save=128.00ms
+[2018.06.12-20.00.59:877][302]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevelCAEE69544F6DFC99B1B8D4906D76D6C2.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-20.00.59:881][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-20.00.59:909][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-20.01.00:189][302]LogSavePackage: Save=261.03ms
+[2018.06.12-20.01.00:189][302]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData48B9C7C04BF8DF9DA5FC9284E38BCAF3.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-20.01.00:191][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-20.08.21:725][755]LogHotReload: New module detected: UE4Editor-BatteryCollector-8382.dll
+[2018.06.12-20.08.22:410][758]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-20.08.22:553][758]LogClass: Could not find existing class BatteryCollectorGameMode in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-20.08.22:553][758]LogClass: Function GetCurrentState is new.
+[2018.06.12-20.08.22:553][758]LogClass: Function GetPowerToWin is new.
+[2018.06.12-20.08.22:559][758]LogClass: EBatteryPlayState HotReload.
+[2018.06.12-20.08.22:565][758]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-20.08.23:194][758]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2018.06.12-20.08.23:303][758]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-20.08.23:621][758]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0011 seconds. Added 5 classes and 2 folders.
+[2018.06.12-20.08.23:625][758]Display: HotReload successful (9 functions remapped  0 scriptstructs remapped)
+[2018.06.12-20.08.23:937][758]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2373 classes and 529 folders.
+[2018.06.12-20.08.23:950][758]Display: HotReload took  1.5s.
