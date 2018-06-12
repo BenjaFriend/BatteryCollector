@@ -2406,3 +2406,32 @@ LogInit: Object subsystem initialized
 [2018.06.12-18.57.05:219][361]LogSavePackage: Save=255.51ms
 [2018.06.12-18.57.05:220][361]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData86586753401CA2E0A4E7178F4C3F55CC.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
 [2018.06.12-18.57.05:222][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-19.07.21:731][ 21]LogHotReload: New module detected: UE4Editor-BatteryCollector-5374.dll
+[2018.06.12-19.11.12:402][713]LogHotReload: New module detected: UE4Editor-BatteryCollector-2167.dll
+[2018.06.12-19.11.13:087][716]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-19.11.13:228][716]LogClass: Could not find existing class BatteryCollectorGameMode in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-19.11.13:228][716]LogClass: Function GetPowerToWin is new.
+[2018.06.12-19.11.13:240][716]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-19.11.13:807][716]LogHotReload: Re-instancing BatteryCollectorGameMode after hot-reload.
+[2018.06.12-19.11.13:938][716]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-19.11.14:322][716]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0010 seconds. Added 5 classes and 2 folders.
+[2018.06.12-19.11.14:326][716]Display: HotReload successful (8 functions remapped  0 scriptstructs remapped)
+[2018.06.12-19.11.14:657][716]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2373 classes and 529 folders.
+[2018.06.12-19.11.14:670][716]Display: HotReload took  1.6s.
+[2018.06.12-19.13.21:345][ 96]LogHotReload: New module detected: UE4Editor-BatteryCollector-1114.dll
+[2018.06.12-19.13.22:366][100]LogHotReload: Starting Hot-Reload from IDE
+[2018.06.12-19.13.22:529][100]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-19.13.23:215][100]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-19.13.23:625][100]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0009 seconds. Added 5 classes and 2 folders.
+[2018.06.12-19.13.23:630][100]Display: HotReload successful (9 functions remapped  0 scriptstructs remapped)
+[2018.06.12-19.13.23:978][100]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2373 classes and 529 folders.
+[2018.06.12-19.13.23:992][100]Display: HotReload took  1.6s.
+[2018.06.12-19.13.27:041][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-19.13.27:253][173]LogSavePackage: Save=130.89ms
+[2018.06.12-19.13.27:254][173]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel09B42C3A40805E98B083D58D53EA4EF5.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-19.13.27:256][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-19.13.27:287][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-19.13.27:557][173]LogSavePackage: Save=253.28ms
+[2018.06.12-19.13.27:557][173]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData85B06B6E4F6FACE28004C5904A01DED0.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-19.13.27:560][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-19.13.28:763][233]LogEditorViewport: Clicking on Actor (LMB): BP_DemoRoom_C (BP_DemoRoom)
