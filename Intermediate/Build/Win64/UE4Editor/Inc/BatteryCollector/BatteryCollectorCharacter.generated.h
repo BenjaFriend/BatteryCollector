@@ -85,6 +85,8 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_EVENT_PARMS
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_CALLBACK_WRAPPERS
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABatteryCollectorCharacter(); \
@@ -134,15 +136,21 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABatteryCollectorCharacter); \
 	FORCEINLINE static uint32 __PPO__FollowCamera() { return STRUCT_OFFSET(ABatteryCollectorCharacter, FollowCamera); } \
 	FORCEINLINE static uint32 __PPO__CollectionSphere() { return STRUCT_OFFSET(ABatteryCollectorCharacter, CollectionSphere); } \
 	FORCEINLINE static uint32 __PPO__InitialPower() { return STRUCT_OFFSET(ABatteryCollectorCharacter, InitialPower); } \
+	FORCEINLINE static uint32 __PPO__SpeedFactor() { return STRUCT_OFFSET(ABatteryCollectorCharacter, SpeedFactor); } \
+	FORCEINLINE static uint32 __PPO__BaseSpeed() { return STRUCT_OFFSET(ABatteryCollectorCharacter, BaseSpeed); } \
 	FORCEINLINE static uint32 __PPO__CharacterPower() { return STRUCT_OFFSET(ABatteryCollectorCharacter, CharacterPower); }
 
 
-#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_9_PROLOG
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_9_PROLOG \
+	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_EVENT_PARMS
+
+
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS \
+	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_CALLBACK_WRAPPERS \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_INCLASS \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_STANDARD_CONSTRUCTORS \
 public: \
@@ -154,6 +162,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_CALLBACK_WRAPPERS \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_INCLASS_NO_PURE_DECLS \
 	BatteryCollector_Source_BatteryCollector_BatteryCollectorCharacter_h_12_ENHANCED_CONSTRUCTORS \
 private: \
