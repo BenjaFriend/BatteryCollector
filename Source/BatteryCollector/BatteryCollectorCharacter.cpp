@@ -10,6 +10,7 @@
 #include "GameFramework/Controller.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Pickup.h"
+#include "BatteryPickup.h"
 
 //////////////////////////////////////////////////////////////////////////
 // ABatteryCollectorCharacter
@@ -153,6 +154,9 @@ void ABatteryCollectorCharacter::CollectPickups()
 	TArray<AActor*> CollectedActors;
 	CollectionSphere->GetOverlappingActors(CollectedActors);
 
+	// Keep track of the collected battery power
+	float CollectedPower = 0.f;
+
 	// For each actor we collect
 	for (int32 iCollected = 0; iCollected < CollectedActors.Num(); ++iCollected)
 	{
@@ -163,9 +167,22 @@ void ABatteryCollectorCharacter::CollectPickups()
 		{
 			// Call the pickup's WasCollected function
 			TestPickup->WasCollected();
+
+			// Check to see if this is also a battery
+			ABatteryPickup* const TestBattery = Cast<ABatteryPickup>(TestPickup);
+			if (TestBattery)
+			{
+				// Increase the collected power
+				CollectedPower += TestBattery->GetPower();
+			}
 			// Deactive the pickup
 			TestPickup->SetActive(false);
 		}
+	}
+
+	if (CollectedPower > 0)
+	{
+		UpdatePower(CollectedPower);
 	}
 }
 
