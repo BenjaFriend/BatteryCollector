@@ -1,10 +1,16 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for hot reloading BatteryCollectorEditor (ini files are newer than UBTMakefile)
   Compiling game modules for hot reload
-  Performing 3 actions (4 in parallel)
+  Parsing headers for BatteryCollectorEditor
+    Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BatteryCollectorEditor in 8.0929023 seconds
+  Performing 5 actions (4 in parallel)
+  BatteryCollectorGameMode.gen.cpp
+  BatteryCollector.init.gen.cpp
   BatteryCollectorGameMode.cpp
-  [2/3] Link UE4Editor-BatteryCollector-1114.dll
-  [3/3] Link UE4Editor-BatteryCollector-1114.lib
-     Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1114.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1114.exp
-     Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1114.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-1114.suppressed.exp
+  [4/5] Link UE4Editor-BatteryCollector-4330.dll
+  [5/5] Link UE4Editor-BatteryCollector-4330.lib
+     Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4330.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4330.exp
+     Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4330.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-4330.suppressed.exp
   Deploying BatteryCollectorEditor Win64 Development...
-  Total build time: 4.12 seconds (Local executor: 2.73 seconds)
+  Total build time: 17.31 seconds (Local executor: 2.63 seconds)
