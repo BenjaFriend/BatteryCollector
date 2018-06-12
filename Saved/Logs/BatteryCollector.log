@@ -2329,3 +2329,80 @@ LogInit: Object subsystem initialized
 [2018.06.12-18.46.37:832][733]LogSavePackage: Save=14.61ms
 [2018.06.12-18.46.37:832][733]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/M_UE4Man_BodyC220A1B040D7222284CD25A9CA4C19F6.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
 [2018.06.12-18.46.37:839][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.06.12-18.49.18:382][862]LogMaterial: Missing cached shader map for material M_radial_ramp, compiling. 
+[2018.06.12-18.49.18:430][862]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.06.12-18.49.18:430][862]LogMaterial: Missing cached shader map for material M_beam_ramp, compiling. 
+[2018.06.12-18.49.20:189][ 48]BlueprintLog: New page: Compile Battery_BP
+[2018.06.12-18.49.21:370][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-18.49.21:423][105]LogSavePackage: Save=33.71ms
+[2018.06.12-18.49.21:423][105]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BPDE74173C4691D16C476A72B132EF57FA.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-18.49.21:429][105]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-18.49.51:604][624]BlueprintLog: New page: Compile Battery_BP
+[2018.06.12-18.49.53:935][847]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-18.49.53:965][847]LogSavePackage: Save=25.44ms
+[2018.06.12-18.49.53:966][847]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BP24A1752844A3E3714E7E5ABE667E255D.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-18.49.53:970][847]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-18.50.11:792][926]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0009 seconds. Added 2 classes and 2 folders.
+[2018.06.12-18.51.20:496][ 81]LogSavePackage: Save=28.25ms
+[2018.06.12-18.51.20:496][ 81]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/P_electricity_arc89970CBE4FAC54F3EED9929E3801C4D7.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset'
+[2018.06.12-18.51.20:501][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/ExampleContent/Effects/ParticleSystems/P_electricity_arc.uasset
+[2018.06.12-18.52.53:848][840]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.06.12-18.52.53:868][840]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.12-18.52.53:930][840]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.12-18.52.54:294][840]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0010 seconds. Added 1 classes and 0 folders.
+[2018.06.12-18.52.56:817][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.06.12-18.52.56:845][ 76]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.06.12-18.53.21:940][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-18.53.21:978][711]LogSavePackage: Save=31.90ms
+[2018.06.12-18.53.21:978][711]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BPF227A5CC4DC7B33D490AE6AA414B0EC7.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-18.53.21:983][711]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-18.55.51:911][101]BlueprintLog: New page: Compile Battery_BP
+[2018.06.12-18.55.52:750][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-18.55.52:796][149]LogSavePackage: Save=34.63ms
+[2018.06.12-18.55.52:796][149]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BP215330A445426B94A84635BA9B53DFF1.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-18.55.52:800][149]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-18.56.13:642][824]BlueprintLog: New page: Compile Battery_BP
+[2018.06.12-18.56.14:547][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Battery_BP" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset" SILENT=true
+[2018.06.12-18.56.14:589][879]LogSavePackage: Save=36.41ms
+[2018.06.12-18.56.14:590][879]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/Battery_BP8B7F4A1C4AAB0549272A10BD79B58300.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset'
+[2018.06.12-18.56.14:594][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Blueprints/Battery_BP.uasset
+[2018.06.12-18.56.28:799][544]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-18.56.28:825][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-18.56.28:825][544]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 10:56:28 AM)
+[2018.06.12-18.56.28:825][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-18.56.28:831][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005589s)
+[2018.06.12-18.56.28:832][544]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-18.56.28:832][544]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2018.06.12-18.56.28:833][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.007217s)
+[2018.06.12-18.56.28:869][544]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-18.56.28:880][544]LogInit: FAudioDevice initialized.
+[2018.06.12-18.56.28:912][544]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-18.56.28:915][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-14.56.28
+[2018.06.12-18.56.28:915][544]LogWorld: Bringing up level for play took: 0.001766
+[2018.06.12-18.56.28:918][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.322
+[2018.06.12-18.56.33:924][ 73]LogClass: You have collected Battery_BP_C_0
+[2018.06.12-18.56.37:984][501]LogClass: You have collected Battery_BP_C_2
+[2018.06.12-18.56.37:985][501]LogClass: You have collected Battery_BP_C_1
+[2018.06.12-18.56.37:985][501]LogClass: You have collected Battery_BP_C_4
+[2018.06.12-18.56.37:985][501]LogClass: You have collected Battery_BP_C_3
+[2018.06.12-18.56.44:323][191]LogClass: You have collected Battery_BP_C_8
+[2018.06.12-18.56.46:236][396]LogClass: You have collected Battery_BP_C_6
+[2018.06.12-18.56.48:065][593]LogClass: You have collected Battery_BP_C_12
+[2018.06.12-18.56.48:066][593]LogClass: You have collected Battery_BP_C_11
+[2018.06.12-18.56.49:177][712]LogClass: You have collected Battery_BP_C_13
+[2018.06.12-18.56.49:177][712]LogClass: You have collected Battery_BP_C_9
+[2018.06.12-18.56.49:701][770]LogClass: You have collected Battery_BP_C_7
+[2018.06.12-18.56.50:588][864]LogClass: You have collected Battery_BP_C_14
+[2018.06.12-18.56.54:668][302]LogClass: You have collected Battery_BP_C_17
+[2018.06.12-18.56.54:668][302]LogClass: You have collected Battery_BP_C_16
+[2018.06.12-18.56.54:668][302]LogClass: You have collected Battery_BP_C_15
+[2018.06.12-18.56.55:665][411]LogClass: You have collected Battery_BP_C_5
+[2018.06.12-18.57.01:294][999]LogCascade: Quitting Cascade. FXSystem=0x0000021410D3E840
+[2018.06.12-18.57.04:741][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-18.57.04:911][361]LogSavePackage: Save=127.16ms
+[2018.06.12-18.57.04:911][361]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevelD468E72F4FA635AAC1A94B9396C752E7.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-18.57.04:913][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-18.57.04:947][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-18.57.05:219][361]LogSavePackage: Save=255.51ms
+[2018.06.12-18.57.05:220][361]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData86586753401CA2E0A4E7178F4C3F55CC.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-18.57.05:222][361]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset

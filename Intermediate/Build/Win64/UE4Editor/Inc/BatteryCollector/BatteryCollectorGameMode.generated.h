@@ -13,8 +13,28 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define BATTERYCOLLECTOR_BatteryCollectorGameMode_generated_h
 
-#define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_RPC_WRAPPERS
-#define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execGetPowerToWin) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(float*)Z_Param__Result=this->GetPowerToWin(); \
+		P_NATIVE_END; \
+	}
+
+
+#define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execGetPowerToWin) \
+	{ \
+		P_FINISH; \
+		P_NATIVE_BEGIN; \
+		*(float*)Z_Param__Result=this->GetPowerToWin(); \
+		P_NATIVE_END; \
+	}
+
+
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABatteryCollectorGameMode(); \
@@ -60,7 +80,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABatteryCollectorGameMode); \
 
 
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_12_PRIVATE_PROPERTY_OFFSET \
-	FORCEINLINE static uint32 __PPO__DecayRate() { return STRUCT_OFFSET(ABatteryCollectorGameMode, DecayRate); }
+	FORCEINLINE static uint32 __PPO__DecayRate() { return STRUCT_OFFSET(ABatteryCollectorGameMode, DecayRate); } \
+	FORCEINLINE static uint32 __PPO__PowerToWin() { return STRUCT_OFFSET(ABatteryCollectorGameMode, PowerToWin); } \
+	FORCEINLINE static uint32 __PPO__HUDWidgetClass() { return STRUCT_OFFSET(ABatteryCollectorGameMode, HUDWidgetClass); } \
+	FORCEINLINE static uint32 __PPO__CurrentWidget() { return STRUCT_OFFSET(ABatteryCollectorGameMode, CurrentWidget); }
 
 
 #define BatteryCollector_Source_BatteryCollector_BatteryCollectorGameMode_h_9_PROLOG
