@@ -1515,3 +1515,133 @@ LogInit: Object subsystem initialized
 [2018.06.12-16.47.34:707][157]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
 [2018.06.12-16.47.35:068][157]LogContentBrowser: Native class hierarchy populated in 0.0111 seconds. Added 2370 classes and 525 folders.
 [2018.06.12-16.47.35:085][157]Display: HotReload took  1.0s.
+[2018.06.12-17.19.12:469][986]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-17.19.12:477][986]Candidate modules for hot reload:
+[2018.06.12-17.19.12:477][986]  BatteryCollector
+[2018.06.12-17.19.12:477][986]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 7575 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-17.19.12:481][986]Warning: Starting HotReload took  0.0s.
+[2018.06.12-17.19.26:083][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-17.19.26:269][502]LogSavePackage: Save=133.60ms
+[2018.06.12-17.19.26:269][502]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevelADC8893E41A4C780BBE0659538C8B013.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-17.19.26:271][502]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-17.19.26:300][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-17.19.26:592][502]LogSavePackage: Save=277.79ms
+[2018.06.12-17.19.26:592][502]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltDataEF19FF014612C4B29735599BBA763820.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-17.19.26:595][502]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-17.19.34:846][351]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 9:19:34 AM
+[2018.06.12-17.19.34:846][351]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-17.19.34:847][351]CompilerResultsLog: Creating makefile for hot reloading BatteryCollector (modules to compile have changed)
+[2018.06.12-17.19.34:847][351]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-17.19.34:847][351]CompilerResultsLog: Parsing headers for BatteryCollectorEditor
+[2018.06.12-17.19.34:847][351]CompilerResultsLog:   Running UnrealHeaderTool "C:\Git_Fast\BatteryCollector\BatteryCollector.uproject" "C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2018.06.12-17.19.34:847][351]CompilerResultsLog: Reflection code generated for BatteryCollectorEditor in 11.3751488 seconds
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: Performing 6 actions (4 in parallel)
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: BatteryCollectorGameMode.cpp
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: BatteryCollector.init.gen.cpp
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: BatteryCollectorCharacter.cpp
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: BatteryCollectorCharacter.gen.cpp
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: [5/6] Link UE4Editor-BatteryCollector-7575.dll
+[2018.06.12-17.19.34:848][351]CompilerResultsLog: [6/6] Link UE4Editor-BatteryCollector-7575.lib
+[2018.06.12-17.19.34:848][351]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7575.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7575.exp
+[2018.06.12-17.19.34:848][351]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7575.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-7575.suppressed.exp
+[2018.06.12-17.19.34:849][351]CompilerResultsLog: Total build time: 22.13 seconds (Local executor: 3.04 seconds)
+[2018.06.12-17.19.34:849][351]LogMainFrame: MainFrame: Module compiling took 22.379 seconds
+[2018.06.12-17.19.34:959][351]LogClass: Could not find existing class BatteryCollectorCharacter in package /Script/BatteryCollector for HotReload, assuming new class
+[2018.06.12-17.19.34:960][351]LogClass: Function CollectPickups is new.
+[2018.06.12-17.19.34:976][351]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-17.19.35:072][351]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-17.19.35:339][351]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0010 seconds. Added 5 classes and 2 folders.
+[2018.06.12-17.19.35:343][351]Display: HotReload successful (4 functions remapped  0 scriptstructs remapped)
+[2018.06.12-17.19.35:650][351]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-17.19.35:654][351]Display: HotReload took 23.2s.
+[2018.06.12-17.19.36:694][352]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.06.12-17.19.36:752][353]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BatteryCollector
+[2018.06.12-17.19.36:752][353]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.06.12-17.19.36:753][353]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.06.12-17.19.36:753][353]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.06.12-17.19.36:810][354]LogTemp: BranchPath = BEN-DESKTOP/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = BEN-DESKTOP/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.06.12-17.19.36:810][354]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Ben\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.06.12-17.20.26:693][432]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.06.12-17.20.26:702][432]Candidate modules for hot reload:
+[2018.06.12-17.20.26:702][432]  BatteryCollector
+[2018.06.12-17.20.26:703][432]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/DotNET/UnrealBuildTool.exe BatteryCollector -ModuleWithSuffix BatteryCollector 210 Win64 Development -editorrecompile -canskiplink "C:/Git_Fast/BatteryCollector/BatteryCollector.uproject" ]
+[2018.06.12-17.20.26:706][432]Warning: Starting HotReload took  0.0s.
+[2018.06.12-17.20.35:354][517]CompilerResultsLog: New page: Compilation - Jun 12, 2018, 9:20:35 AM
+[2018.06.12-17.20.35:354][517]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build.
+[2018.06.12-17.20.35:354][517]CompilerResultsLog: Creating makefile for hot reloading BatteryCollector (ini files are newer than UBTMakefile)
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: Compiling game modules for hot reload
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: Performing 3 actions (4 in parallel)
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: BatteryCollectorCharacter.cpp
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: Error: C:\Git_Fast\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.cpp(50) : warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: Error: C:\Program Files\Epic Games\UE_4.18\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(641) : note: see declaration of 'USceneComponent::AttachTo'
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: [2/3] Link UE4Editor-BatteryCollector-210.dll
+[2018.06.12-17.20.35:355][517]CompilerResultsLog: [3/3] Link UE4Editor-BatteryCollector-210.lib
+[2018.06.12-17.20.35:356][517]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-210.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-210.exp
+[2018.06.12-17.20.35:356][517]CompilerResultsLog:    Creating library C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-210.suppressed.lib and object C:\Git_Fast\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BatteryCollector-210.suppressed.exp
+[2018.06.12-17.20.35:356][517]CompilerResultsLog: Total build time: 8.32 seconds (Local executor: 1.93 seconds)
+[2018.06.12-17.20.35:356][517]LogMainFrame: MainFrame: Module compiling took 8.663 seconds
+[2018.06.12-17.20.35:489][517]LogHotReload: Re-instancing BatteryCollectorCharacter after hot-reload.
+[2018.06.12-17.20.35:615][517]LogHotReload: Re-instancing SpawnVolume after hot-reload.
+[2018.06.12-17.20.35:980][517]LogContentBrowser: Native class hierarchy updated for 'BatteryCollector' in 0.0013 seconds. Added 5 classes and 2 folders.
+[2018.06.12-17.20.35:983][517]Display: HotReload successful (5 functions remapped  0 scriptstructs remapped)
+[2018.06.12-17.20.36:328][517]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2370 classes and 525 folders.
+[2018.06.12-17.20.36:332][517]Display: HotReload took  9.6s.
+[2018.06.12-17.22.00:381][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-17.22.00:576][103]LogSavePackage: Save=130.56ms
+[2018.06.12-17.22.00:576][103]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel6761E3B04E6226D3BA9C5C8EDEC40FA5.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-17.22.00:577][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-17.22.00:602][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-17.22.00:853][103]LogSavePackage: Save=247.41ms
+[2018.06.12-17.22.00:853][103]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltData60E00B684F2D9271878FBDBBCBBAF147.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-17.22.00:855][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset
+[2018.06.12-17.22.10:897][288]LogTemp: Repeating last play command: Selected Viewport
+[2018.06.12-17.22.10:913][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.12-17.22.10:914][288]PIE: New page: PIE session: CollectionLevel (Jun 12, 2018, 9:22:10 AM)
+[2018.06.12-17.22.10:914][288]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CollectionLevel
+[2018.06.12-17.22.10:919][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005010s)
+[2018.06.12-17.22.10:920][288]LogAIModule: Creating AISystem for world CollectionLevel
+[2018.06.12-17.22.10:920][288]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2018.06.12-17.22.10:920][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CollectionLevel.CollectionLevel to /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel (0.006742s)
+[2018.06.12-17.22.10:970][288]LogInit: XAudio2 using 'LG ULTRAWIDE (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-17.22.10:981][288]LogInit: FAudioDevice initialized.
+[2018.06.12-17.22.11:019][288]LogLoad: Game class is 'BatteryCollectorGameMode'
+[2018.06.12-17.22.11:020][288]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CollectionLevel.CollectionLevel up for play (max tick rate 0) at 2018.06.12-13.22.11
+[2018.06.12-17.22.11:021][288]LogWorld: Bringing up level for play took: 0.001684
+[2018.06.12-17.22.11:024][288]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_CollectionLevel -0.216
+[2018.06.12-17.22.16:222][884]LogClass: You have collected Battery_BP_C_0
+[2018.06.12-17.22.16:223][884]LogClass: You have collected Pickup_BP_2
+[2018.06.12-17.22.19:057][212]LogClass: You have collected Battery_BP_C_1
+[2018.06.12-17.22.21:720][517]LogClass: You have collected Battery_BP_C_2
+[2018.06.12-17.22.24:021][779]LogClass: You have collected Battery_BP_C_3
+[2018.06.12-17.22.26:267][ 37]LogClass: You have collected Battery_BP_C_4
+[2018.06.12-17.22.31:008][580]LogClass: You have collected Pickup_BP_C_1
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_7
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_2
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_0
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_8
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_3
+[2018.06.12-17.22.31:009][580]LogClass: You have collected Pickup_BP_C_5
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_9
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_4
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_12
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_10
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_6
+[2018.06.12-17.22.31:010][580]LogClass: You have collected Pickup_BP_C_13
+[2018.06.12-17.22.33:604][878]LogClass: You have collected Battery_BP_C_5
+[2018.06.12-17.22.33:605][878]LogClass: You have collected Battery_BP_C_6
+[2018.06.12-17.22.35:801][127]LogClass: You have collected Pickup_BP_C_14
+[2018.06.12-17.22.35:801][127]LogClass: You have collected Pickup_BP_C_15
+[2018.06.12-17.22.35:801][127]LogClass: You have collected Pickup_BP_C_11
+[2018.06.12-17.22.35:801][127]LogClass: You have collected Pickup_BP_C_16
+[2018.06.12-17.22.39:123][508]LogClass: You have collected Pickup_BP_C_19
+[2018.06.12-17.22.39:123][508]LogClass: You have collected Pickup_BP_C_17
+[2018.06.12-17.22.39:123][508]LogClass: You have collected Pickup_BP_C_20
+[2018.06.12-17.22.39:954][605]LogClass: You have collected Pickup_BP_C_21
+[2018.06.12-17.22.46:640][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.06.12-17.22.46:790][332]LogSavePackage: Save=130.20ms
+[2018.06.12-17.22.46:790][332]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel2EAC7FF24778EAE7F84F80B7F2D7EA6E.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap'
+[2018.06.12-17.22.46:792][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel.umap
+[2018.06.12-17.22.46:817][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CollectionLevel_BuiltData" FILE="../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset" SILENT=true
+[2018.06.12-17.22.47:076][332]LogSavePackage: Save=254.59ms
+[2018.06.12-17.22.47:076][332]LogSavePackage: Moving '../../../../../../Git_Fast/BatteryCollector/Saved/CollectionLevel_BuiltDataC726086E4BEAF446805E79A629C053BF.tmp' to '../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset'
+[2018.06.12-17.22.47:078][332]LogSavePackage: Display: Finished SavePackage ../../../../../../Git_Fast/BatteryCollector/Content/Maps/CollectionLevel_BuiltData.uasset

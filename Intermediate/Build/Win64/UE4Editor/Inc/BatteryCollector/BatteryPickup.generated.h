@@ -59,7 +59,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(ABatteryPickup); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ABatteryPickup)
 
 
-#define BatteryCollector_Source_BatteryCollector_BatteryPickup_h_15_PRIVATE_PROPERTY_OFFSET
+#define BatteryCollector_Source_BatteryCollector_BatteryPickup_h_15_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__BatteryPower() { return STRUCT_OFFSET(ABatteryPickup, BatteryPower); }
+
+
 #define BatteryCollector_Source_BatteryCollector_BatteryPickup_h_12_PROLOG
 #define BatteryCollector_Source_BatteryCollector_BatteryPickup_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
